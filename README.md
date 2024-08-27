@@ -11,7 +11,7 @@ This is a simple Movie Recommendation App that fetches data from The Movie Datab
 - [API Key Setup](#api-key-setup)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Introduction
 
