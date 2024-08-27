@@ -51,7 +51,7 @@ To use this app, you need an API key from [The Movie Database (TMDb)](https://ww
 1. Sign up or log in to your TMDb account.
 2. Go to your account settings and navigate to the API section.
 3. Request an API key.
-4. Replace the placeholder `YOUR_API_KEY_HERE` in the `index.js` file with your actual TMDb API key:
+4. Replace the placeholder `YOUR_API_KEY_HERE` in the `script.js` file with your actual TMDb API key:
     ```javascript
     const tmdbKey = "YOUR_API_KEY_HERE";
     ```
