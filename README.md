@@ -29,11 +29,11 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/movie-recommendation-app.git
+    git clone https://github.com/your-username/FilmFinder.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd movie-recommendation-app
+    cd FilmFinder
     ```
 3. Open `index.html` in your preferred web browser.
 
@@ -61,7 +61,8 @@ To use this app, you need an API key from [The Movie Database (TMDb)](https://ww
 
 - `index.html`: The main HTML file that contains the structure of the web page.
 - `style.css`: The CSS file that contains the styling for the web page.
-- `index.js`: The JavaScript file that contains the logic for fetching data from the TMDb API and displaying the movie information.
+- `script.js`: The JavaScript file that contains the logic for fetching data from the TMDb API and displaying the movie information.
+- `helper.js : The JavaScript file that contains helper functions
 
 ## Technologies Used
 
