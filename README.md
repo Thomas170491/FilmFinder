@@ -1,4 +1,4 @@
-# Movie Recommendation App
+# Movie Recommendation Webpage
 
 This is a simple Movie Recommendation App that fetches data from The Movie Database (TMDb) API to display random movie suggestions based on selected genres.
 
